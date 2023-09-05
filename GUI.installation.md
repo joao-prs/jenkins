@@ -1,7 +1,7 @@
 # Instalando Jenkins
 ## Guias deste repositório
 - <a href="https://github.com/joao-prs/jenkins">Voltar para o inicio.</a>
-- <a href="https://github.com/joao-prs/jenkins/blob/main/GUI.installation.md">Guia de uso.</a>
+- <a href="https://github.com/joao-prs/jenkins/blob/main/GUI.usage.md">Guia de uso.</a>
 
 ## Instalação de Java
 Jenkins requer Java para funcionar, mas certas distribuições não incluem isso por padrão e algumas versões Java são incompatíveis com Jenkins.
