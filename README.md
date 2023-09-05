@@ -1,12 +1,5 @@
 # jenkins
 
-<style>
-mark {
-  background-color: #fc4d14;
-  color: white;
-}
-</style>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins"/>
