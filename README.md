@@ -19,7 +19,7 @@ O principal servidor de automação de código aberto, Jenkins fornece centenas 
 
 ## Guias deste repositório
 - <a href="https://github.com/joao-prs/jenkins/blob/main/GUI.installation.md">Guia de instalação.</a>
-- <a href="https://github.com/joao-prs/jenkins/blob/main/GUI.installation.md">Guia de uso.</a>
+- <a href="https://github.com/joao-prs/jenkins/blob/main/GUI.usage.md">Guia de uso.</a>
 
 ### Requisitos mínimos de hardware:
 - 256 MB de RAM
