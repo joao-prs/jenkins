@@ -8,11 +8,11 @@
 
 <table>
   <tr>
-    <td width=40%>
-Ferramenta de CI/CD que acelera o ciclo de desenvolvimento e melhora a qualidade do software entregue. Em distribuições baseadas em Debian como <mark>Ubuntu</mark> você pode instalar através apt.
+    <td width=55%>
+      Ferramenta de CI/CD que acelera o ciclo de desenvolvimento e melhora a qualidade do software entregue. Em distribuições baseadas em Debian você pode instalar através apt.
     </td>
     <td>
-O principal servidor de automação de código aberto, Jenkins fornece centenas de plug-ins para apoiar a construção, implantação e automação qualquer projeto. 
+      O principal servidor de automação de código aberto, Jenkins fornece centenas de plug-ins para apoiar a construção, implantação e automação para qualquer projeto. 
     </td>
   </tr>
 </table>
