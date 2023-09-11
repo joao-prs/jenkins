@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width=40%>
-Ambientes de criação de ambientes de pipeline com jenkins. Em distribuições Debian e baseadas em Debian como <mark>Ubuntu</mark> você pode instalar o Jenkins através apt.
+Ferramenta de CI/CD que acelera o ciclo de desenvolvimento e melhora a qualidade do software entregue. Em distribuições baseadas em Debian como <mark>Ubuntu</mark> você pode instalar através apt.
     </td>
     <td>
 O principal servidor de automação de código aberto, Jenkins fornece centenas de plug-ins para apoiar a construção, implantação e automação qualquer projeto. 
